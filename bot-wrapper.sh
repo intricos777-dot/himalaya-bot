@@ -1,4 +1,5 @@
 #!/bin/bash
+# Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work
 # Wrapper script for Himalaya Email Bot
 # Sets up the Python venv PATH so the pass shim can find cryptography
 
